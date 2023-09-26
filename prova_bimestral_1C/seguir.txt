@@ -1,0 +1,2 @@
+1(pra geral) - crie um repositorio e coloque: prova_bimestral_1C (descrição ficará o nome da dupla)
+1(grupão 3 em dupla) -  crie um algoritmo que diga o sucessor do numero
