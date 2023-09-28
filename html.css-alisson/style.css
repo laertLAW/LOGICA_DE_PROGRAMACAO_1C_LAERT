@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: white;
+    background: rgb(54,77,204);
+    background: linear-gradient(176deg, rgba(54, 77, 204, 1) 0%, rgba(19, 35, 124, 1) 100%);
+}
+.avatar{
+   width: 200px; 
+   border-radius: 50%;
+   border: 3px solid white;
+   box-shadow: 0px 0px 20px white;
+}
+h1{
+    font-family: unset;
+    font-weight: 100;
+    font-size: 24px;
+    margin-bottom: 2px;
+}
+h2{
+    font-size: 16px;
+}
+.profile{
+    margin-top: 20px;
+    text-align: center;
+}
+.social{
+   display: flex;
+   justify-content: space-evenly;
+   list-style: none;
+   margin: 20px 0px;
+
+}
+.social img{
+   width: 59px;
+}
+.links-list{
+    list-style: none;
+    
+}
+.links-list li{
+    margin: 10px 20px;
+}
+.links-list li a{
+    display: block;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.links-list li span{
+    color: gray;
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+    
+}
+.links-list a.active{
+    box-shadow: 0px 0px 20px white;
+    color: rgba(54, 77, 204, 1);
+}
+

@@ -10,4 +10,4 @@ d1=c+c1
 print("\nconcatenação: ",d1)
 print("\nprimeiro caractere: ",c[0])
 print("\nultimo caractere: ",c[-1])
-print("\n")
+print("\nmoises gamer")
