@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-html,body{
+html, body{
     height: 100%;
 }
 body{
@@ -56,7 +56,7 @@ h2{
     color: black;
     font-weight: bold;
 }
-.links-list li span{
+.links-list li a span{
     color: gray;
     display: block;
     margin-top: 10px;
