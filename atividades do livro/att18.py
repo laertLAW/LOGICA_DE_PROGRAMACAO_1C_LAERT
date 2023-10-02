@@ -1,0 +1,1 @@
+print("é preciso fazer todos os algoritimos para aprender")
